@@ -1,0 +1,7 @@
+Â8:Ford:sedan
+1952:Chevrolet:coupe
+1960:Ford:Mustang
+1972:Chevrolet:Corvette
+1977:Plymouth:Roadrunner
+2016:Hyundai:Sonata
+2019:Mercedes Benz:C Class
